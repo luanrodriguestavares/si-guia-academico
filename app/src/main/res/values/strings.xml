@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SI - Guia Academico</string>
+    
+    <!-- Tela Principal -->
+    <string name="bem_vindo">Bem-vindo ao Guia Acadêmico</string>
+    <string name="sistemas_informacao">Sistemas de Informação</string>
+    <string name="fied_uninta">FIED UNINTA</string>
+    <string name="conhecer_mais">Conhecer mais sobre o curso</string>
+    <string name="grade_curricular">Grade Curricular</string>
+    <string name="professores">Professores</string>
+    <string name="avaliacoes">Avaliações</string>
+    <string name="instagram_curso">Instagram do Curso</string>
+    <string name="instagram_descricao">Acompanhe as novidades e eventos do curso</string>
+    
+    <!-- Sobre o Curso -->
+    <string name="sobre_curso">Sobre o Curso</string>
+    <string name="duracao">Duração: 04 ANOS</string>
+    <string name="tipo">Tipo: BACHARELADO</string>
+    <string name="modalidade">Modalidade: PRESENCIAL</string>
+    
+    <!-- Descrição do Curso -->
+    <string name="descricao_curso">O curso de Sistemas de Informação forma profissionais capazes de planejar, desenvolver, gerenciar e avaliar sistemas de informação em empresas e organizações. Durante o curso, os alunos aprendem sobre tecnologias de informação, bancos de dados, programação, gerenciamento de projetos, segurança da informação e metodologias de desenvolvimento de software.</string>
+    
+    <!-- Tabs -->
+    <string name="tab_info">Informações</string>
+    <string name="tab_objetivos">Objetivos</string>
+    <string name="tab_atuacao">Campos de Atuação</string>
+    <string name="tab_perfil">Perfil do Egresso</string>
+    
+    <!-- Grade Curricular -->
+    <string name="periodo">Período</string>
+    <string name="disciplina">Disciplina</string>
+    <string name="creditos">Créditos</string>
+    <string name="carga_horaria">Carga Horária</string>
+    <string name="pre_requisitos">Pré-requisitos</string>
+    <string name="ementa">Ementa</string>
+    <string name="bibliografia">Bibliografia</string>
+    
+    <!-- Avaliações -->
+    <string name="avaliar">Avaliar</string>
+    <string name="comentario">Comentário</string>
+    <string name="nota">Nota</string>
+    <string name="data">Data</string>
+    <string name="salvar">Salvar</string>
+    <string name="cancelar">Cancelar</string>
+    <string name="sem_avaliacoes">Nenhuma avaliação encontrada</string>
+    <string name="media_avaliacoes">Média das avaliações</string>
+    <string name="total_avaliacoes">Total de avaliações</string>
+    
+    <!-- Professores -->
+    <string name="lista_professores">Lista de Professores</string>
+    <string name="disciplinas_ministradas">Disciplinas Ministradas</string>
+    
+    <!-- Detalhes da Disciplina -->
+    <string name="detalhes_disciplina">Detalhes da Disciplina</string>
+    <string name="codigo">Código</string>
+    <string name="professor">Professor</string>
+    
+    <!-- Mensagens -->
+    <string name="erro_carregar_dados">Erro ao carregar dados</string>
+    <string name="erro_salvar_avaliacao">Erro ao salvar avaliação</string>
+    <string name="sucesso_salvar_avaliacao">Avaliação salva com sucesso</string>
+    <string name="avaliacoes_comentarios">Avaliações e Comentários</string>
+    <string name="adicionar_avaliacao">Adicionar Avaliação</string>
+    <string name="sua_avaliacao">Sua Avaliação</string>
+    <string name="seu_comentario">Seu comentário</string>
+    <string name="enviar">Enviar</string>
+    <string name="avaliacao_enviada">Avaliação enviada com sucesso!</string>
+    <string name="erro_avaliacao">Erro ao enviar avaliação</string>
+</resources>
